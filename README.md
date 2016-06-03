@@ -1,2 +1,2 @@
 # hello-world
-'a short description'
+Trying this as an alternative to posting code on Wordpress!
